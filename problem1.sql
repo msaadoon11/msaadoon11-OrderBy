@@ -1,1 +1,1 @@
-SELECT * FROM character ORDER BY last_name, first_name; -- ASC or DESC can be specified for each one... if left unspecified, it defaults to ASC. 
+SELECT * FROM character ORDER BY last_name, first_name; -- ASC or DESC can be specified for each one... if left unspecified, it defaults to ASC. DONE 
